@@ -4,7 +4,7 @@
 ### Kelas: XI RPL 2
 ### Absen: 29
 
-## Modul 1
+>## Modul 1
 
 #### 1.Install Xampp terlebih dahulu
 
@@ -27,3 +27,11 @@ cd xampp/mysql/bin
 
 ![image](https://user-images.githubusercontent.com/92255670/190303407-b4246b76-6ec3-4c79-af39-114aecb26db5.png)
 
+#### 5.ketik syntaks berikut untuk masuk ke MariaDB
+```
+mysql -u root
+```
+
+![image](https://user-images.githubusercontent.com/92255670/190308626-753b3710-6ba3-4ce7-8e66-224a08e8780a.png)
+
+**Di atas sudah bisa menuliskan query**
